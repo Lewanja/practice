@@ -1,5 +1,4 @@
 # practice
 SOLOLEARN python PROJECTS
 
-hello
-in this space i will add my python practice code
+practice projects from sololeaen are added in this space 
