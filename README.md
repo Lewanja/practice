@@ -1,4 +1,4 @@
 # practice
 SOLOLEARN python PROJECTS
 
-practice projects from sololeaen are added in this space 
+practice projects from sololearn are added in this space 
